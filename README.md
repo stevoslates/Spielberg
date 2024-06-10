@@ -1,8 +1,6 @@
-# Speilberg #
-## Spielberg: A Chatbot Powered by Retrieval-Augmented Generation (RAG), Using My Letterboxd Data to Create My Ultimate Movie Brain ##
+# Speilberg: A Chatbot Powered by Retrieval-Augmented Generation (RAG), Using My Letterboxd Data to Create My Ultimate Movie Brain #
 
 During creation, I wanted to experiement with different RAG pipelines, as this is the first time I had used strucutred data for RAG. Speilberg allows you to choose between a normal pipeline and a self query pipeline.
-
 ## Normal Pipeline ##
 Here I merged the structured data into one column, transformed it into JSON and used the standard retrevier with the vectorDB of the data. 
 
