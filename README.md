@@ -1,5 +1,5 @@
 # Speilberg #
-## Speilberg is a Chatbot built using Retreival Augmented Generation (RAG). It uses my data from LetterBoxd (Movie Review Website and Social Media App) to essentially create my movie brain in a chatbot. ##
+## Spielberg: A Chatbot Powered by Retrieval-Augmented Generation (RAG), Using My Letterboxd Data to Create My Ultimate Movie Brain ##
 
 During creation, I wanted to experiement with different RAG pipelines, as this is the first time I had used strucutred data for RAG. Speilberg allows you to choose between a normal pipeline and a self query pipeline.
 
